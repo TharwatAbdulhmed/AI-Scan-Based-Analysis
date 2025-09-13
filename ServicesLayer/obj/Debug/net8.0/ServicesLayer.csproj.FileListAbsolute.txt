@@ -1,0 +1,15 @@
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\ServicesLayer\obj\Debug\net8.0\ServicesLayer.csproj.AssemblyReference.cache
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\ServicesLayer\obj\Debug\net8.0\ServicesLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\ServicesLayer\obj\Debug\net8.0\ServicesLayer.AssemblyInfoInputs.cache
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\ServicesLayer\obj\Debug\net8.0\ServicesLayer.AssemblyInfo.cs
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\ServicesLayer\obj\Debug\net8.0\ServicesLayer.csproj.CoreCompileInputs.cache
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\ServicesLayer\bin\Debug\net8.0\ServicesLayer.deps.json
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\ServicesLayer\bin\Debug\net8.0\ServicesLayer.dll
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\ServicesLayer\bin\Debug\net8.0\ServicesLayer.pdb
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\ServicesLayer\bin\Debug\net8.0\DomainLayer.dll
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\ServicesLayer\bin\Debug\net8.0\DomainLayer.pdb
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\ServicesLayer\obj\Debug\net8.0\Services.2D1E3DF1.Up2Date
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\ServicesLayer\obj\Debug\net8.0\ServicesLayer.dll
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\ServicesLayer\obj\Debug\net8.0\refint\ServicesLayer.dll
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\ServicesLayer\obj\Debug\net8.0\ServicesLayer.pdb
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\ServicesLayer\obj\Debug\net8.0\ref\ServicesLayer.dll

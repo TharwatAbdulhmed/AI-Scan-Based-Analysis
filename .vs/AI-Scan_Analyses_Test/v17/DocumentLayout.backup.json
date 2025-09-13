@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED356BE4-585F-4DDF-BE88-219EFF9A15CF}|AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test.csproj|e:\\projects_net\\apis\\ai-scan_analyses_test\\ai-scan_analyses_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED356BE4-585F-4DDF-BE88-219EFF9A15CF}|AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test.csproj|solutionrelative:ai-scan_analyses_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A383204F-B0C5-43E7-9D25-12046A128669}|ServicesLayer\\ServicesLayer.csproj|e:\\projects_net\\apis\\ai-scan_analyses_test\\serviceslayer\\scananalysisservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A383204F-B0C5-43E7-9D25-12046A128669}|ServicesLayer\\ServicesLayer.csproj|solutionrelative:serviceslayer\\scananalysisservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EBA092-7BB0-4C30-A9AF-85B1274153DA}|RepositoryLayer\\RepositoryLayer.csproj|e:\\projects_net\\apis\\ai-scan_analyses_test\\repositorylayer\\scananalysisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3EBA092-7BB0-4C30-A9AF-85B1274153DA}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\scananalysisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F565A8-8FE5-4C40-8D10-17E5E8353FD3}|DomainLayer\\DomainLayer.csproj|e:\\projects_net\\apis\\ai-scan_analyses_test\\domainlayer\\models\\scananalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F565A8-8FE5-4C40-8D10-17E5E8353FD3}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\scananalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F565A8-8FE5-4C40-8D10-17E5E8353FD3}|DomainLayer\\DomainLayer.csproj|e:\\projects_net\\apis\\ai-scan_analyses_test\\domainlayer\\interfaces\\iscananalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F565A8-8FE5-4C40-8D10-17E5E8353FD3}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\interfaces\\iscananalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F565A8-8FE5-4C40-8D10-17E5E8353FD3}|DomainLayer\\DomainLayer.csproj|e:\\projects_net\\apis\\ai-scan_analyses_test\\domainlayer\\interfaces\\iscananalysisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F565A8-8FE5-4C40-8D10-17E5E8353FD3}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\interfaces\\iscananalysisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EBA092-7BB0-4C30-A9AF-85B1274153DA}|RepositoryLayer\\RepositoryLayer.csproj|e:\\projects_net\\apis\\ai-scan_analyses_test\\repositorylayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3EBA092-7BB0-4C30-A9AF-85B1274153DA}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED356BE4-585F-4DDF-BE88-219EFF9A15CF}|AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test.csproj|e:\\projects_net\\apis\\ai-scan_analyses_test\\ai-scan_analyses_test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED356BE4-585F-4DDF-BE88-219EFF9A15CF}|AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test.csproj|solutionrelative:ai-scan_analyses_test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED356BE4-585F-4DDF-BE88-219EFF9A15CF}|AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test.csproj|e:\\projects_net\\apis\\ai-scan_analyses_test\\ai-scan_analyses_test\\extintions\\identityservicesextantion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED356BE4-585F-4DDF-BE88-219EFF9A15CF}|AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test.csproj|solutionrelative:ai-scan_analyses_test\\extintions\\identityservicesextantion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EBA092-7BB0-4C30-A9AF-85B1274153DA}|RepositoryLayer\\RepositoryLayer.csproj|e:\\projects_net\\apis\\ai-scan_analyses_test\\repositorylayer\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3EBA092-7BB0-4C30-A9AF-85B1274153DA}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED356BE4-585F-4DDF-BE88-219EFF9A15CF}|AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test.csproj|e:\\projects_net\\apis\\ai-scan_analyses_test\\ai-scan_analyses_test\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED356BE4-585F-4DDF-BE88-219EFF9A15CF}|AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test.csproj|solutionrelative:ai-scan_analyses_test\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EBA092-7BB0-4C30-A9AF-85B1274153DA}|RepositoryLayer\\RepositoryLayer.csproj|e:\\projects_net\\apis\\ai-scan_analyses_test\\repositorylayer\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3EBA092-7BB0-4C30-A9AF-85B1274153DA}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F565A8-8FE5-4C40-8D10-17E5E8353FD3}|DomainLayer\\DomainLayer.csproj|e:\\projects_net\\apis\\ai-scan_analyses_test\\domainlayer\\models\\authmodles\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F565A8-8FE5-4C40-8D10-17E5E8353FD3}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\authmodles\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F565A8-8FE5-4C40-8D10-17E5E8353FD3}|DomainLayer\\DomainLayer.csproj|e:\\projects_net\\apis\\ai-scan_analyses_test\\domainlayer\\models\\authmodles\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F565A8-8FE5-4C40-8D10-17E5E8353FD3}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\authmodles\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F565A8-8FE5-4C40-8D10-17E5E8353FD3}|DomainLayer\\DomainLayer.csproj|e:\\projects_net\\apis\\ai-scan_analyses_test\\domainlayer\\models\\authmodles\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F565A8-8FE5-4C40-8D10-17E5E8353FD3}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\authmodles\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F565A8-8FE5-4C40-8D10-17E5E8353FD3}|DomainLayer\\DomainLayer.csproj|e:\\projects_net\\apis\\ai-scan_analyses_test\\domainlayer\\models\\authmodles\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F565A8-8FE5-4C40-8D10-17E5E8353FD3}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\authmodles\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScanAnalysisServices.cs",
+              "DocumentMoniker": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\ServicesLayer\\ScanAnalysisServices.cs",
+              "RelativeDocumentMoniker": "ServicesLayer\\ScanAnalysisServices.cs",
+              "ToolTip": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\ServicesLayer\\ScanAnalysisServices.cs",
+              "RelativeToolTip": "ServicesLayer\\ScanAnalysisServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T01:03:01.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScanAnalysisRepository.cs",
+              "DocumentMoniker": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\RepositoryLayer\\ScanAnalysisRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\ScanAnalysisRepository.cs",
+              "ToolTip": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\RepositoryLayer\\ScanAnalysisRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\ScanAnalysisRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:53:41.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IScanAnalysisService.cs",
+              "DocumentMoniker": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\DomainLayer\\Interfaces\\IScanAnalysisService.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Interfaces\\IScanAnalysisService.cs",
+              "ToolTip": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\DomainLayer\\Interfaces\\IScanAnalysisService.cs",
+              "RelativeToolTip": "DomainLayer\\Interfaces\\IScanAnalysisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:57:56.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IScanAnalysisRepository.cs",
+              "DocumentMoniker": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\DomainLayer\\Interfaces\\IScanAnalysisRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Interfaces\\IScanAnalysisRepository.cs",
+              "ToolTip": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\DomainLayer\\Interfaces\\IScanAnalysisRepository.cs",
+              "RelativeToolTip": "DomainLayer\\Interfaces\\IScanAnalysisRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:56:10.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScanAnalysis.cs",
+              "DocumentMoniker": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\DomainLayer\\models\\ScanAnalysis.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\models\\ScanAnalysis.cs",
+              "ToolTip": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\DomainLayer\\models\\ScanAnalysis.cs",
+              "RelativeToolTip": "DomainLayer\\models\\ScanAnalysis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:51:01.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\RepositoryLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\RepositoryLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RepositoryLayer\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:48:20.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\RepositoryLayer\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\RepositoryLayer\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "RepositoryLayer\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:18:38.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\Program.cs",
+              "RelativeDocumentMoniker": "AI-Scan_Analyses_Test\\Program.cs",
+              "ToolTip": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\Program.cs",
+              "RelativeToolTip": "AI-Scan_Analyses_Test\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:13:28.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IdentityServicesExtantion.cs",
+              "DocumentMoniker": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\Extintions\\IdentityServicesExtantion.cs",
+              "RelativeDocumentMoniker": "AI-Scan_Analyses_Test\\Extintions\\IdentityServicesExtantion.cs",
+              "ToolTip": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\Extintions\\IdentityServicesExtantion.cs",
+              "RelativeToolTip": "AI-Scan_Analyses_Test\\Extintions\\IdentityServicesExtantion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:13:51.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\RepositoryLayer\\AuthService.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\AuthService.cs",
+              "ToolTip": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\RepositoryLayer\\AuthService.cs",
+              "RelativeToolTip": "RepositoryLayer\\AuthService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwIEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:06:14.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\DomainLayer\\models\\AuthModles\\LoginModel.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\models\\AuthModles\\LoginModel.cs",
+              "ToolTip": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\DomainLayer\\models\\AuthModles\\LoginModel.cs",
+              "RelativeToolTip": "DomainLayer\\models\\AuthModles\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:05:14.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\DomainLayer\\models\\AuthModles\\AppUser.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\models\\AuthModles\\AppUser.cs",
+              "ToolTip": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\DomainLayer\\models\\AuthModles\\AppUser.cs",
+              "RelativeToolTip": "DomainLayer\\models\\AuthModles\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:05:10.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\appsettings.json",
+              "RelativeDocumentMoniker": "AI-Scan_Analyses_Test\\appsettings.json",
+              "ToolTip": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\appsettings.json",
+              "RelativeToolTip": "AI-Scan_Analyses_Test\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T14:41:27.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\DomainLayer\\models\\AuthModles\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\models\\AuthModles\\AuthResponse.cs",
+              "ToolTip": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\DomainLayer\\models\\AuthModles\\AuthResponse.cs",
+              "RelativeToolTip": "DomainLayer\\models\\AuthModles\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:25:00.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\DomainLayer\\models\\AuthModles\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\models\\AuthModles\\RegisterModel.cs",
+              "ToolTip": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\DomainLayer\\models\\AuthModles\\RegisterModel.cs",
+              "RelativeToolTip": "DomainLayer\\models\\AuthModles\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:24:06.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AI-Scan_Analyses_Test\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AI-Scan_Analyses_Test\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:23:36.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

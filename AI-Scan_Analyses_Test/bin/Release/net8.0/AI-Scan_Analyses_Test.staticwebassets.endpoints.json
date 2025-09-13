@@ -1,0 +1,1564 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "images/Atopic_Dermatitis.jpg",
+      "AssetFile": "images/Atopic_Dermatitis.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"muvJW1PQZSOhNM/5cYf4GzX7ZfU8CEJu/RArIByMsN0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-muvJW1PQZSOhNM/5cYf4GzX7ZfU8CEJu/RArIByMsN0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Atopic_Dermatitis.mg9upg1erd.jpg",
+      "AssetFile": "images/Atopic_Dermatitis.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"muvJW1PQZSOhNM/5cYf4GzX7ZfU8CEJu/RArIByMsN0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mg9upg1erd"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-muvJW1PQZSOhNM/5cYf4GzX7ZfU8CEJu/RArIByMsN0="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Atopic_Dermatitis.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Basal_Cell_Carcinoma.cpaonig50a.jpg",
+      "AssetFile": "images/Basal_Cell_Carcinoma.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MIuegtq8K8Rxw1uWrl+ioNAzdNXXoPCE8G1PkMrqDLQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cpaonig50a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MIuegtq8K8Rxw1uWrl+ioNAzdNXXoPCE8G1PkMrqDLQ="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Basal_Cell_Carcinoma.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Basal_Cell_Carcinoma.jpg",
+      "AssetFile": "images/Basal_Cell_Carcinoma.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MIuegtq8K8Rxw1uWrl+ioNAzdNXXoPCE8G1PkMrqDLQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MIuegtq8K8Rxw1uWrl+ioNAzdNXXoPCE8G1PkMrqDLQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Benign_Keratosis-like_Lesions.86tdifsp6d.jpg",
+      "AssetFile": "images/Benign_Keratosis-like_Lesions.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ML6JBVgZ8IF/ynSGLZfWEOh1qVswFeX0MDqt/H+/Oc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "86tdifsp6d"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ML6JBVgZ8IF/ynSGLZfWEOh1qVswFeX0MDqt/H+/Oc="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Benign_Keratosis-like_Lesions.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Benign_Keratosis-like_Lesions.jpg",
+      "AssetFile": "images/Benign_Keratosis-like_Lesions.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ML6JBVgZ8IF/ynSGLZfWEOh1qVswFeX0MDqt/H+/Oc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ML6JBVgZ8IF/ynSGLZfWEOh1qVswFeX0MDqt/H+/Oc="
+        }
+      ]
+    },
+    {
+      "Route": "images/Candidiasis.jpg",
+      "AssetFile": "images/Candidiasis.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "154949"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PqOaj/l1rKfrgr7V3vzHgDcP9qaAdJZGTzjuzL/1Q8k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PqOaj/l1rKfrgr7V3vzHgDcP9qaAdJZGTzjuzL/1Q8k="
+        }
+      ]
+    },
+    {
+      "Route": "images/Candidiasis.ut9gzpwrsk.jpg",
+      "AssetFile": "images/Candidiasis.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "154949"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PqOaj/l1rKfrgr7V3vzHgDcP9qaAdJZGTzjuzL/1Q8k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ut9gzpwrsk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PqOaj/l1rKfrgr7V3vzHgDcP9qaAdJZGTzjuzL/1Q8k="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Candidiasis.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Covid19.52h1g29yx4.jpg",
+      "AssetFile": "images/Covid19.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nXSNrv5rTKcu3ugJQP/xrY9xgq0lpgow5k8GCFKH0Jw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "52h1g29yx4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nXSNrv5rTKcu3ugJQP/xrY9xgq0lpgow5k8GCFKH0Jw="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Covid19.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Covid19.jpg",
+      "AssetFile": "images/Covid19.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nXSNrv5rTKcu3ugJQP/xrY9xgq0lpgow5k8GCFKH0Jw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nXSNrv5rTKcu3ugJQP/xrY9xgq0lpgow5k8GCFKH0Jw="
+        }
+      ]
+    },
+    {
+      "Route": "images/Eczema.jpg",
+      "AssetFile": "images/Eczema.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1281484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YfmtWZE1P+g/zg5j7F4jvlu+VhABVnnCXoPQayzNJE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YfmtWZE1P+g/zg5j7F4jvlu+VhABVnnCXoPQayzNJE4="
+        }
+      ]
+    },
+    {
+      "Route": "images/Eczema.xkj5bznpts.jpg",
+      "AssetFile": "images/Eczema.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1281484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YfmtWZE1P+g/zg5j7F4jvlu+VhABVnnCXoPQayzNJE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xkj5bznpts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YfmtWZE1P+g/zg5j7F4jvlu+VhABVnnCXoPQayzNJE4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Eczema.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Glioma.4ba07u44u3.jpeg",
+      "AssetFile": "images/Glioma.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MBPSB9KO1v5MEGwkbnl7Q0EfPJfE6Kv/f+LJsXkahTo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4ba07u44u3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MBPSB9KO1v5MEGwkbnl7Q0EfPJfE6Kv/f+LJsXkahTo="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Glioma.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Glioma.jpeg",
+      "AssetFile": "images/Glioma.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MBPSB9KO1v5MEGwkbnl7Q0EfPJfE6Kv/f+LJsXkahTo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MBPSB9KO1v5MEGwkbnl7Q0EfPJfE6Kv/f+LJsXkahTo="
+        }
+      ]
+    },
+    {
+      "Route": "images/Lichen_Planus.jpeg",
+      "AssetFile": "images/Lichen_Planus.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4060"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vQaYhOQ6zZSQD1BWWM5pJvP1575Bv8MgK2ijndJ16Xo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vQaYhOQ6zZSQD1BWWM5pJvP1575Bv8MgK2ijndJ16Xo="
+        }
+      ]
+    },
+    {
+      "Route": "images/Lichen_Planus.nj8k5nbc8z.jpeg",
+      "AssetFile": "images/Lichen_Planus.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4060"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vQaYhOQ6zZSQD1BWWM5pJvP1575Bv8MgK2ijndJ16Xo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nj8k5nbc8z"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vQaYhOQ6zZSQD1BWWM5pJvP1575Bv8MgK2ijndJ16Xo="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Lichen_Planus.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Melanocytic_Nevi.dcfvtps68v.jpeg",
+      "AssetFile": "images/Melanocytic_Nevi.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kx/ZHEz6ogGrVIogfpEAulqzCug4TYCKz/5uPKhrKo8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dcfvtps68v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kx/ZHEz6ogGrVIogfpEAulqzCug4TYCKz/5uPKhrKo8="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Melanocytic_Nevi.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Melanocytic_Nevi.jpeg",
+      "AssetFile": "images/Melanocytic_Nevi.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kx/ZHEz6ogGrVIogfpEAulqzCug4TYCKz/5uPKhrKo8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kx/ZHEz6ogGrVIogfpEAulqzCug4TYCKz/5uPKhrKo8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Melanoma.jpg",
+      "AssetFile": "images/Melanoma.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iY/gQF3wXc/uJ5gt+G+ywzRoBKaSECGlBDMildaZgR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iY/gQF3wXc/uJ5gt+G+ywzRoBKaSECGlBDMildaZgR4="
+        }
+      ]
+    },
+    {
+      "Route": "images/Melanoma.nooe4ijr04.jpg",
+      "AssetFile": "images/Melanoma.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iY/gQF3wXc/uJ5gt+G+ywzRoBKaSECGlBDMildaZgR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nooe4ijr04"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iY/gQF3wXc/uJ5gt+G+ywzRoBKaSECGlBDMildaZgR4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Melanoma.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Meningioma.5dnl85cktv.jpg",
+      "AssetFile": "images/Meningioma.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73317"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iWVcbXlT7idXhL+wLIx9fEMhS37BBo3rqG+roWeufbo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5dnl85cktv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iWVcbXlT7idXhL+wLIx9fEMhS37BBo3rqG+roWeufbo="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Meningioma.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Meningioma.jpg",
+      "AssetFile": "images/Meningioma.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73317"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iWVcbXlT7idXhL+wLIx9fEMhS37BBo3rqG+roWeufbo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iWVcbXlT7idXhL+wLIx9fEMhS37BBo3rqG+roWeufbo="
+        }
+      ]
+    },
+    {
+      "Route": "images/Molluscum_Contagiosum.1ig66bzuz5.jpg",
+      "AssetFile": "images/Molluscum_Contagiosum.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9+QqsLbayqO6ZqEm1T9xnPA1+jwrE8zge0TAXvsidrg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ig66bzuz5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9+QqsLbayqO6ZqEm1T9xnPA1+jwrE8zge0TAXvsidrg="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Molluscum_Contagiosum.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Molluscum_Contagiosum.jpg",
+      "AssetFile": "images/Molluscum_Contagiosum.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9+QqsLbayqO6ZqEm1T9xnPA1+jwrE8zge0TAXvsidrg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9+QqsLbayqO6ZqEm1T9xnPA1+jwrE8zge0TAXvsidrg="
+        }
+      ]
+    },
+    {
+      "Route": "images/Pituitary_Adenoma.jpg",
+      "AssetFile": "images/Pituitary_Adenoma.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qDbjC4+Ugl6WG54hoTV8JnvqsLPr8Y86ykNp1Ha9diQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qDbjC4+Ugl6WG54hoTV8JnvqsLPr8Y86ykNp1Ha9diQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Pituitary_Adenoma.sj9ojcqpdn.jpg",
+      "AssetFile": "images/Pituitary_Adenoma.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qDbjC4+Ugl6WG54hoTV8JnvqsLPr8Y86ykNp1Ha9diQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sj9ojcqpdn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qDbjC4+Ugl6WG54hoTV8JnvqsLPr8Y86ykNp1Ha9diQ="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Pituitary_Adenoma.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Pneumonia.jpg",
+      "AssetFile": "images/Pneumonia.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "960820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yV7g+Ho8Vvm8xbQgwRKCQXsUpRbxLQ79bcyXIR4MThY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yV7g+Ho8Vvm8xbQgwRKCQXsUpRbxLQ79bcyXIR4MThY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Pneumonia.zhbohsbsgf.jpg",
+      "AssetFile": "images/Pneumonia.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "960820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yV7g+Ho8Vvm8xbQgwRKCQXsUpRbxLQ79bcyXIR4MThY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zhbohsbsgf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yV7g+Ho8Vvm8xbQgwRKCQXsUpRbxLQ79bcyXIR4MThY="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Pneumonia.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Psoriasis.96bohksa9w.jpg",
+      "AssetFile": "images/Psoriasis.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108713"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kQ9H2TLisZFbMYqi1G/R3SpcqahcZ/zEeofC/tm51f0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "96bohksa9w"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kQ9H2TLisZFbMYqi1G/R3SpcqahcZ/zEeofC/tm51f0="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Psoriasis.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Psoriasis.jpg",
+      "AssetFile": "images/Psoriasis.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108713"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kQ9H2TLisZFbMYqi1G/R3SpcqahcZ/zEeofC/tm51f0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kQ9H2TLisZFbMYqi1G/R3SpcqahcZ/zEeofC/tm51f0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Seborrheic_Keratoses.1t9vzbg4v2.jpg",
+      "AssetFile": "images/Seborrheic_Keratoses.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56490"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m61yjTb1pJfDbfFSN4+fcY7qN8xJuB9uguiemZWFspw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1t9vzbg4v2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m61yjTb1pJfDbfFSN4+fcY7qN8xJuB9uguiemZWFspw="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Seborrheic_Keratoses.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Seborrheic_Keratoses.jpg",
+      "AssetFile": "images/Seborrheic_Keratoses.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56490"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m61yjTb1pJfDbfFSN4+fcY7qN8xJuB9uguiemZWFspw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m61yjTb1pJfDbfFSN4+fcY7qN8xJuB9uguiemZWFspw="
+        }
+      ]
+    },
+    {
+      "Route": "images/Tinea.ijhgxq283y.jpg",
+      "AssetFile": "images/Tinea.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120397"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MrqGAXSj2+ijrHc5q4gq0maCVLRVNpf46zKrUh5ltLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ijhgxq283y"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MrqGAXSj2+ijrHc5q4gq0maCVLRVNpf46zKrUh5ltLk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Tinea.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Tinea.jpg",
+      "AssetFile": "images/Tinea.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120397"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MrqGAXSj2+ijrHc5q4gq0maCVLRVNpf46zKrUh5ltLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MrqGAXSj2+ijrHc5q4gq0maCVLRVNpf46zKrUh5ltLk="
+        }
+      ]
+    },
+    {
+      "Route": "images/Tuberculosis.jpg",
+      "AssetFile": "images/Tuberculosis.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zXLSI8T3NDpAXMoiAmvqAxpHTumqxNt3+RbY8Lz9NEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zXLSI8T3NDpAXMoiAmvqAxpHTumqxNt3+RbY8Lz9NEA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Tuberculosis.tg705mt934.jpg",
+      "AssetFile": "images/Tuberculosis.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zXLSI8T3NDpAXMoiAmvqAxpHTumqxNt3+RbY8Lz9NEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tg705mt934"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zXLSI8T3NDpAXMoiAmvqAxpHTumqxNt3+RbY8Lz9NEA="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Tuberculosis.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Warts.jpg",
+      "AssetFile": "images/Warts.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VdOfvlGxUOxon+fCabHgQB3/oaUvWShSvrqSPhtysrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VdOfvlGxUOxon+fCabHgQB3/oaUvWShSvrqSPhtysrs="
+        }
+      ]
+    },
+    {
+      "Route": "images/Warts.l08fppkghy.jpg",
+      "AssetFile": "images/Warts.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VdOfvlGxUOxon+fCabHgQB3/oaUvWShSvrqSPhtysrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 21:55:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l08fppkghy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VdOfvlGxUOxon+fCabHgQB3/oaUvWShSvrqSPhtysrs="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Warts.jpg"
+        }
+      ]
+    }
+  ]
+}

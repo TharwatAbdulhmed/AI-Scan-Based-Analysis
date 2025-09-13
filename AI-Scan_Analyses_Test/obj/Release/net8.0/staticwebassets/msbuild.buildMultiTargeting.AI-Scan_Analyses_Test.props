@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AI-Scan_Analyses_Test.props" />
+</Project>

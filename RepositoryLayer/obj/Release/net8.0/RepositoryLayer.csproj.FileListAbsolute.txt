@@ -1,0 +1,15 @@
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\RepositoryLayer\bin\Release\net8.0\RepositoryLayer.deps.json
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\RepositoryLayer\bin\Release\net8.0\RepositoryLayer.dll
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\RepositoryLayer\bin\Release\net8.0\RepositoryLayer.pdb
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\RepositoryLayer\bin\Release\net8.0\DomainLayer.dll
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\RepositoryLayer\bin\Release\net8.0\DomainLayer.pdb
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\RepositoryLayer\obj\Release\net8.0\RepositoryLayer.csproj.AssemblyReference.cache
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\RepositoryLayer\obj\Release\net8.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\RepositoryLayer\obj\Release\net8.0\RepositoryLayer.AssemblyInfoInputs.cache
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\RepositoryLayer\obj\Release\net8.0\RepositoryLayer.AssemblyInfo.cs
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\RepositoryLayer\obj\Release\net8.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\RepositoryLayer\obj\Release\net8.0\Reposito.A0A61804.Up2Date
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\RepositoryLayer\obj\Release\net8.0\RepositoryLayer.dll
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\RepositoryLayer\obj\Release\net8.0\refint\RepositoryLayer.dll
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\RepositoryLayer\obj\Release\net8.0\RepositoryLayer.pdb
+E:\Projects_Net\APIs\AI-Scan_Analyses_Test\RepositoryLayer\obj\Release\net8.0\ref\RepositoryLayer.dll

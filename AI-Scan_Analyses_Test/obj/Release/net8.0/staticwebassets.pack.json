@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\wwwroot\\images\\Atopic_Dermatitis.jpg",
+      "PackagePath": "staticwebassets\\images\\Atopic_Dermatitis.jpg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\wwwroot\\images\\Basal_Cell_Carcinoma.jpg",
+      "PackagePath": "staticwebassets\\images\\Basal_Cell_Carcinoma.jpg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\wwwroot\\images\\Benign_Keratosis-like_Lesions.jpg",
+      "PackagePath": "staticwebassets\\images\\Benign_Keratosis-like_Lesions.jpg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\wwwroot\\images\\Candidiasis.jpg",
+      "PackagePath": "staticwebassets\\images\\Candidiasis.jpg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\wwwroot\\images\\Covid19.jpg",
+      "PackagePath": "staticwebassets\\images\\Covid19.jpg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\wwwroot\\images\\Eczema.jpg",
+      "PackagePath": "staticwebassets\\images\\Eczema.jpg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\wwwroot\\images\\Glioma.jpeg",
+      "PackagePath": "staticwebassets\\images\\Glioma.jpeg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\wwwroot\\images\\Lichen_Planus.jpeg",
+      "PackagePath": "staticwebassets\\images\\Lichen_Planus.jpeg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\wwwroot\\images\\Melanocytic_Nevi.jpeg",
+      "PackagePath": "staticwebassets\\images\\Melanocytic_Nevi.jpeg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\wwwroot\\images\\Melanoma.jpg",
+      "PackagePath": "staticwebassets\\images\\Melanoma.jpg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\wwwroot\\images\\Meningioma.jpg",
+      "PackagePath": "staticwebassets\\images\\Meningioma.jpg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\wwwroot\\images\\Molluscum_Contagiosum.jpg",
+      "PackagePath": "staticwebassets\\images\\Molluscum_Contagiosum.jpg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\wwwroot\\images\\Pituitary_Adenoma.jpg",
+      "PackagePath": "staticwebassets\\images\\Pituitary_Adenoma.jpg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\wwwroot\\images\\Pneumonia.jpg",
+      "PackagePath": "staticwebassets\\images\\Pneumonia.jpg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\wwwroot\\images\\Psoriasis.jpg",
+      "PackagePath": "staticwebassets\\images\\Psoriasis.jpg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\wwwroot\\images\\Seborrheic_Keratoses.jpg",
+      "PackagePath": "staticwebassets\\images\\Seborrheic_Keratoses.jpg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\wwwroot\\images\\Tinea.jpg",
+      "PackagePath": "staticwebassets\\images\\Tinea.jpg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\wwwroot\\images\\Tuberculosis.jpg",
+      "PackagePath": "staticwebassets\\images\\Tuberculosis.jpg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\AI-Scan_Analyses_Test\\AI-Scan_Analyses_Test\\wwwroot\\images\\Warts.jpg",
+      "PackagePath": "staticwebassets\\images\\Warts.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.AI-Scan_Analyses_Test.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.AI-Scan_Analyses_Test.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.AI-Scan_Analyses_Test.props",
+      "PackagePath": "build\\AI-Scan_Analyses_Test.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AI-Scan_Analyses_Test.props",
+      "PackagePath": "buildMultiTargeting\\AI-Scan_Analyses_Test.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.AI-Scan_Analyses_Test.props",
+      "PackagePath": "buildTransitive\\AI-Scan_Analyses_Test.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
